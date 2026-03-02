@@ -1,3 +1,12 @@
+---
+title: GitHired
+emoji: ??
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # 🚀 GitHired — AI-Powered Resume & Job Description Matcher
 
 GitHired is an LLM-powered ATS resume scorer. Paste any job description, upload your resume, and instantly see your real ATS match score, the same way Taleo, Workday, and Greenhouse actually scan it. No sugarcoating. 
